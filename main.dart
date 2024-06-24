@@ -17,6 +17,6 @@ class Song extends Media {
 void main() {
   Media media = Media();
   media.play();
-  Song song = Song('Hero Alom');
-  song.play();
+  Song singer = Song('Hero Alom');
+  singer.play();
 }
